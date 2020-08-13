@@ -10,7 +10,13 @@ namespace Variables_and_such
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("It's a good day to teleport!");
+            string opening = "Hello there.";
+            int score = 0;
+            string scoreDisplay = "The score is " + score + ".";
+
+            Console.WriteLine(opening);
+            Console.WriteLine(scoreDisplay);
+
             Console.ReadKey();
         }
     }
