@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "counting", "counting\counti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loooping", "Loooping\Loooping.csproj", "{04133D2A-0193-4ECB-A38C-C91F80B9D99E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods", "methods\methods.csproj", "{A0E646C7-09C5-43D4-BEF0-80DC793284B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{04133D2A-0193-4ECB-A38C-C91F80B9D99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04133D2A-0193-4ECB-A38C-C91F80B9D99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04133D2A-0193-4ECB-A38C-C91F80B9D99E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E646C7-09C5-43D4-BEF0-80DC793284B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E646C7-09C5-43D4-BEF0-80DC793284B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E646C7-09C5-43D4-BEF0-80DC793284B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E646C7-09C5-43D4-BEF0-80DC793284B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
