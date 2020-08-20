@@ -5,21 +5,25 @@ VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{92258B78-FE07-4AE2-B80F-E7BD7945683E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables_and_such", "Variables and such\Variables_and_such.csproj", "{0A1F1DCD-BEC3-4B3A-AF71-A2DFA188C90B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables_and_such", "Variables and such\Variables_and_such.csproj", "{0A1F1DCD-BEC3-4B3A-AF71-A2DFA188C90B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalExcercise", "ConditionalExcercise\ConditionalExcercise.csproj", "{0355D9CC-4AB3-4D4F-A59C-A5C55DA8EE13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionalExcercise", "ConditionalExcercise\ConditionalExcercise.csproj", "{0355D9CC-4AB3-4D4F-A59C-A5C55DA8EE13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "counting", "counting\counting.csproj", "{CFBB02B5-773E-4735-BF67-B2BA29D5B194}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "counting", "counting\counting.csproj", "{CFBB02B5-773E-4735-BF67-B2BA29D5B194}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loooping", "Loooping\Loooping.csproj", "{04133D2A-0193-4ECB-A38C-C91F80B9D99E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loooping", "Loooping\Loooping.csproj", "{04133D2A-0193-4ECB-A38C-C91F80B9D99E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods", "methods\methods.csproj", "{A0E646C7-09C5-43D4-BEF0-80DC793284B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methods", "methods\methods.csproj", "{A0E646C7-09C5-43D4-BEF0-80DC793284B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Properties.csproj", "{6940749F-A99C-46F7-A288-E9EB9336FE8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Properties", "Properties\Properties.csproj", "{6940749F-A99C-46F7-A288-E9EB9336FE8E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumber", "..\..\..\OneDrive\Desktop\AIE stuff\Walkalong\GuessTheNumber\GuessTheNumber.csproj", "{1331A877-7510-46B2-B0E6-713DBDED5460}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{C223818C-D4EA-4B7E-BFF1-308672E52B8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{C223818C-D4EA-4B7E-BFF1-308672E52B8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TV", "TV\TV.csproj", "{EFDCD1FE-826B-4CB9-8156-AF0311BDD257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{4751D208-CD4B-4CE5-BA13-2DB54443925E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{C223818C-D4EA-4B7E-BFF1-308672E52B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C223818C-D4EA-4B7E-BFF1-308672E52B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C223818C-D4EA-4B7E-BFF1-308672E52B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFDCD1FE-826B-4CB9-8156-AF0311BDD257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDCD1FE-826B-4CB9-8156-AF0311BDD257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDCD1FE-826B-4CB9-8156-AF0311BDD257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDCD1FE-826B-4CB9-8156-AF0311BDD257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4751D208-CD4B-4CE5-BA13-2DB54443925E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4751D208-CD4B-4CE5-BA13-2DB54443925E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4751D208-CD4B-4CE5-BA13-2DB54443925E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4751D208-CD4B-4CE5-BA13-2DB54443925E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
