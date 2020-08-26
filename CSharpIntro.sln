@@ -25,9 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TV", "TV\TV.csproj", "{EFDC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank", "Bank\Bank.csproj", "{4751D208-CD4B-4CE5-BA13-2DB54443925E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array", "array\array.csproj", "{E01FFD91-2F03-4872-A44B-AF8835A83AA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "array", "array\array.csproj", "{E01FFD91-2F03-4872-A44B-AF8835A83AA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientation", "ObjectOrientation\ObjectOrientation.csproj", "{AE07DD5A-FB5F-46E8-AFDB-C976D3F9B927}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectOrientation", "ObjectOrientation\ObjectOrientation.csproj", "{AE07DD5A-FB5F-46E8-AFDB-C976D3F9B927}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackjack", "Blackjack\Blackjack.csproj", "{CC95B04B-88F7-4DCD-A9D2-6D36DC3D7E17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{AE07DD5A-FB5F-46E8-AFDB-C976D3F9B927}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE07DD5A-FB5F-46E8-AFDB-C976D3F9B927}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE07DD5A-FB5F-46E8-AFDB-C976D3F9B927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC95B04B-88F7-4DCD-A9D2-6D36DC3D7E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC95B04B-88F7-4DCD-A9D2-6D36DC3D7E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC95B04B-88F7-4DCD-A9D2-6D36DC3D7E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC95B04B-88F7-4DCD-A9D2-6D36DC3D7E17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
