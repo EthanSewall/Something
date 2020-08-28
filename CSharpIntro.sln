@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErrorHandling", "ErrorHandl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "typeConversion", "typeConversion\typeConversion.csproj", "{79FE8082-C46E-47B0-8263-8072266872D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sorting", "sorting\sorting.csproj", "{7406A33B-ACB5-4E3B-A3A9-3EAC2424A7E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sorting", "sorting\sorting.csproj", "{7406A33B-ACB5-4E3B-A3A9-3EAC2424A7E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "raygamecsharp", "raylib\raygamecsharp\raygamecsharp.csproj", "{1B9423BF-85FF-4757-B680-75FE4517B260}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{7406A33B-ACB5-4E3B-A3A9-3EAC2424A7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7406A33B-ACB5-4E3B-A3A9-3EAC2424A7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7406A33B-ACB5-4E3B-A3A9-3EAC2424A7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9423BF-85FF-4757-B680-75FE4517B260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9423BF-85FF-4757-B680-75FE4517B260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9423BF-85FF-4757-B680-75FE4517B260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9423BF-85FF-4757-B680-75FE4517B260}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
