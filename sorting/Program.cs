@@ -26,6 +26,7 @@ namespace sorting
         }
         static void BubbleSort(ref int[] array)
         {
+            int checkLength = array.Length;
             if (array.Length <= 1)
             {
                 return;
@@ -35,7 +36,7 @@ namespace sorting
             do
             {
                 stillSorting = false;
-                for (int i = 0; i < array.Length - 1; i++)
+                for (int i = 0; i < checkLength - 1; i++)
                 {
                     if (array[i] > array[i + 1])
                     {
@@ -44,6 +45,8 @@ namespace sorting
                         array[i + 1] = tmp;
                         stillSorting = true;
                     }
+                    if(stillSorting)
+                    checkLength--;
                 }
 
             } while (stillSorting == true);
